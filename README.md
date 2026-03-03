@@ -1,7 +1,5 @@
 # Create T3 App
 
-I wanted to add some additional information here to show a pending request. :)
-
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
